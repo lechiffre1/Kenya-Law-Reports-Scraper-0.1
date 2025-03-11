@@ -1,5 +1,4 @@
 # Kenya-Law-Reports-Scraper-0.1
-# Kenya Law Reports Scraper
 
 A robust and efficient scraper for extracting judgments from Kenya Law Reports (new.kenyalaw.org/judgements). This tool is designed to reliably scrape all 275,979+ judgments from the website while respecting server limitations.
 
