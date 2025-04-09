@@ -43,8 +43,8 @@ KLR/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/kenya-law-reports-scraper.git
-   cd kenya-law-reports-scraper
+   git clone https://github.com/lechiffre1/Kenya-Law-Reports-Scraper-0.1.git
+   cd kenya-law-reports-scraper-0.1
    ```
 
 2. Install required packages:
